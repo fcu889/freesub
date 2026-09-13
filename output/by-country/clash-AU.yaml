@@ -22,7 +22,7 @@ proxies:
   ws-opts:
     path: /7586c69d3dc9
 - name: 🇦🇺 澳大利亚 (Australia) 03 - xiaohe
-  server: 32.236.171.236
+  server: vpn-au-002.fastervpn.world
   port: 443
   udp: true
   type: hysteria2
