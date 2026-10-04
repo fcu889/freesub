@@ -27,10 +27,10 @@ proxies:
   reality-opts:
     public-key: ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU
   servername: www.cloudflare.com
-  client-fingerprint: firefox
+  client-fingerprint: random
 - name: 🇮🇩 印尼 (Indonesia) 03 - xiaohe
-  server: funagfr.alixxplay.com
-  port: 61847
+  server: apinbxs.zalolink.com
+  port: 31094
   udp: true
   type: vless
   uuid: 57beeeb0-03fc-4fc9-94da-7604488a7134
